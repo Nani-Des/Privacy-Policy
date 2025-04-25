@@ -1,5 +1,6 @@
-Privacy Policy for Nhap
+PRIVACY POLICY FOR NHAP
 Last Updated: April 25, 2025
+
 Nhap is a mobile health application developed by MESTI, designed to provide offline first-aid guidance, local language support (e.g., Twi, Ewe), nearby doctor search, appointment scheduling, and a public health forum for users in Ghana. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, share, and protect your data when you use Nhap.
 By using Nhap, you agree to the terms of this Privacy Policy. If you do not agree, please do not use the app.
 1. Information We Collect
